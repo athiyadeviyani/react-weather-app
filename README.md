@@ -9,4 +9,9 @@ Based on the tutorial: https://blog.expo.io/building-a-minimalist-weather-app-wi
 Added my own tweaks such as displaying the location name and minor appearance changes
 
 ## How the app looks like
-<img height=700px src="https://github.com/athiyadeviyani/react-weather-app/blob/master/IMG_9530.PNG">
+<p float="left">
+<img height=500px src="https://github.com/athiyadeviyani/react-weather-app/blob/master/IMG_9530.PNG">
+<img height=500px src="https://github.com/athiyadeviyani/react-weather-app/blob/master/IMG_9535.PNG">
+<img height=500px src="https://github.com/athiyadeviyani/react-weather-app/blob/master/IMG_9573.PNG">
+  </p>
+<p> Utilises dynamic design to change the background color based on the current weather condition. </p>
